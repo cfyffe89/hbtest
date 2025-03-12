@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "Project_ID": "37180",
+      "name": "Cold Water",
+      "amount": 10,
+      "type": "bottle"
+    },
+    {
+      "Project_ID": "37181",
+      "name": "Hot Water",
+      "amount": 100,
+      "type": "bucket"
+    },
+    {
+      "Project_ID": "37182",
+      "name": "Tepid Water",
+      "amount": 24,
+      "type": "vial"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
